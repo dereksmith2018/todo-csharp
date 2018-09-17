@@ -37,6 +37,7 @@ namespace ToDoList.Models
     {
       return _instances[searchId-1];
     }
+
     public List<Item> GetItems()
     {
       return _items;
@@ -45,5 +46,13 @@ namespace ToDoList.Models
     {
       _items.Add(item);
     }
+
+   public void setCategoryToItem(Item item)
+   {
+     foreach(Item thing in _items)
+     {
+       thing.SetCategoryName(_name);
+     }
+   }
   }
 }

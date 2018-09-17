@@ -1,4 +1,3 @@
-using System.IO;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -26,9 +25,7 @@ namespace ToDoList
 
         public void Configure(IApplicationBuilder app)
         {
-          // loggerFactory.AddConsole(Configuration.GetSection("Logging"));
-          // loggerFactory.AddingDebug();
-
+            app.UseDeveloperExceptionPage();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
@@ -37,8 +34,9 @@ namespace ToDoList
             });
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Welcome!");
+                await context.Response.WriteAsync("Hello World!");
             });
+            app.UseDeveloperExceptionPage();
         }
     }
 }
