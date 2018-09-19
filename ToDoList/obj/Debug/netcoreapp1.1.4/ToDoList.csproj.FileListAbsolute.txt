@@ -1,0 +1,5 @@
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/bin/Debug/netcoreapp1.1.4/ToDoList.deps.json
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/bin/Debug/netcoreapp1.1.4/ToDoList.runtimeconfig.json
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/bin/Debug/netcoreapp1.1.4/ToDoList.runtimeconfig.dev.json
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/obj/Debug/netcoreapp1.1.4/ToDoList.csproj.CoreCompileInputs.cache
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/obj/Debug/netcoreapp1.1.4/ToDoList.AssemblyInfo.cs

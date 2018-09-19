@@ -1,0 +1,15 @@
+/Users/Guest/Desktop/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/Guest/Desktop/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.json
+/Users/Guest/Desktop/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.dev.json
+/Users/Guest/Desktop/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Guest/Desktop/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/Guest/Desktop/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/Guest/Desktop/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Guest/Desktop/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.json
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.dev.json
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csproj.CoreCompileInputs.cache
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/dereksmith/Desktop/todo-csharp/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
